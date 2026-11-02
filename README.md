@@ -112,6 +112,10 @@ Models were tuned on a validation set. Performance is measured by RMSE, MAE, R-s
 
 ## Author
 
-**Opoku Asante Emmanuel**, data scientist and financial economist
+**Opoku Asante Emmanuel**, Data Scientist and Financial Economist
+
 Email: vkpoasante@gmail.com
+
+## License
+**MIT**
 
