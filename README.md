@@ -2,7 +2,7 @@
 
 ### Classical econometric tests and LSTM-based deep learning, applied to 23 years of monthly GSE Composite Index data
 
-If a market is weak-form efficient, past prices should tell you nothing useful about future prices. This project tests that idea on the **Ghana Stock Exchange Composite Index (GSE-CI)** from two angles at once:
+If a market is weak-form efficient, past prices should disclose nothing useful about future prices. This project tests that idea on the **Ghana Stock Exchange Composite Index (GSE-CI)** from two angles at once:
 
 1. **Statistical tests**: do returns behave like a random walk?
 2. **Forecasting models**: can ARIMA, Random Forest, XGBoost, neural networks and LSTMs actually predict returns from past data?
